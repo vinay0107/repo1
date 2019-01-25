@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 5A16-3131
+
+ Directory of C:\Users\nCodeIT\Desktop\my project
+
+25-01-2019  14:09    <DIR>          .
+25-01-2019  14:09    <DIR>          ..
+25-01-2019  14:09                 0 text1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  515,045,875,712 bytes free
